@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://u5fjrywskqsh"]
+
+[ext_resource type="AudioStream" uid="uid://c8gr07sio5w1f" path="res://audio folder/Time_to_ruinthis_ADVENTURE.mp3" id="1_oj3s4"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_oj3s4")
+autoplay = true
+mix_target = 1

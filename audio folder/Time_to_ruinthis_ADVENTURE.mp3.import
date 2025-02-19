@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c8gr07sio5w1f"
+path="res://.godot/imported/Time_to_ruinthis_ADVENTURE.mp3-1f2a7990afb2b976fd90718ccdbc3694.mp3str"
+
+[deps]
+
+source_file="res://audio folder/Time_to_ruinthis_ADVENTURE.mp3"
+dest_files=["res://.godot/imported/Time_to_ruinthis_ADVENTURE.mp3-1f2a7990afb2b976fd90718ccdbc3694.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
